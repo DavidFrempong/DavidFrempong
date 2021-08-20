@@ -1,6 +1,6 @@
 - Hi, my name is David Frempong.
 
-- I'm a UX Designer learning Front End Delopment.
+- I'm a UX Designer learning Front End Development.
 
 - My goal is to create user-friendly experiences that bring stories to life.
 
