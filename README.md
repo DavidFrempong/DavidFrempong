@@ -1,8 +1,6 @@
 - Hi, my name is David Frempong.
 
 - You can reach me here:
-- Instagram: https://www.instagram.com/uncovered.gem/
-- Twitter: https://twitter.com/davidfrempong0
 - Email: davidfrempong@icloud.com
 
 <!---
