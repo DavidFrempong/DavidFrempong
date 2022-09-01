@@ -1,6 +1,3 @@
-- Hi, my name is David Frempong.
-
-- You can reach me here:
 - Email: davidfrempong@icloud.com
 
 <!---
